@@ -4,5 +4,6 @@
 
 ------------------------------------------------
 
-    - Bridging Big data, machine learning, modelling and simulation for impacting 
-      sustainable development in Africa 
+       * Bridging Big data, machine learning, modelling and simulation for impacting 
+         sustainable development in Africa 
+
