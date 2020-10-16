@@ -7,3 +7,4 @@
 
 
 ** Connecting to Django
+** Favorites and ratings
