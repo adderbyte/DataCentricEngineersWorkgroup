@@ -4,7 +4,7 @@
 
 ###  Others
 
-######  [PostgreSQL DOwnload and Installation](https://www.postgresql.org/download/)
+######  [PostgreSQL Download and Installation](https://www.postgresql.org/download/)
 
 ######  [Django](https://docs.djangoproject.com/en/3.1/intro/install/)  
 
