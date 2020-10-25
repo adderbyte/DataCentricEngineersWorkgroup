@@ -1,7 +1,9 @@
 ### Navigating pages in flutter
+Assume flutter has already beem inatalled:
 
-                *  flutter create navigation
-                *  remove the main.dart file and replace it with this.
-                *  repalce the pubspec.yaml with the one above 
+                *  download the files
+                *  on terminal: flutter create navigation
+                *  delete the main.dart file and replace it with the downloaded main.dart file.
+                *  repalce the pubspec.yaml with the dowoaded one too. 
                 *  flutter pub get (optional)
 
