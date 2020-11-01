@@ -1,6 +1,6 @@
 --------------------------------------------
 
-##### Building App for low budget feature phones
+##### Building Apps for low budget feature phones
 
 ------------------------------------
 
