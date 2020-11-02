@@ -4,7 +4,7 @@
 
 ------------------------------------------------
 
-       * Bridging Big data, machine learning, modelling and simulation for impacting 
+       * Bridging Big data, Machine learning, modelling and simulation for impacting 
          sustainable development in developing countries 
        
        * Community based open source project approach.
