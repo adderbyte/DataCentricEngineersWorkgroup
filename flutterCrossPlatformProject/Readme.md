@@ -1,8 +1,14 @@
+---------------------------------------------
 ## Requirements:
+-------------------------------------------------
 
 #### [Flutter Installation](https://flutter.dev/docs/get-started/install)
 
+
+
+---------------------------------------------
 ###  Others
+-------------------------------------------------
 
 ######  [PostgreSQL Download and Installation](https://www.postgresql.org/download/)
 
