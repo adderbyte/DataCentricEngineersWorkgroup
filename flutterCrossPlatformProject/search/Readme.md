@@ -13,11 +13,11 @@
 -------------------------------------------------
 
 ```
-******  log into postgre database as super use. from the terminal using commend below ******
+//  log into postgre database as super user from the terminal using commend below:
  sudo -u postgres psql  
-********************************************************************************************
  
-****** Then use the following commands on terminal to add postgis extension. Not all are necessary. First 3 commands are enough ******
+****** Then use the following commands on terminal to add postgis extension.********** 
+******** note that '--' represents comment . First 3 commands are enough *************
  
    -- Enable PostGIS (as of 3.0 contains just geometry/geography)
   CREATE EXTENSION postgis;
@@ -38,7 +38,7 @@
   -- Enable US Tiger Geocoder
   CREATE EXTENSION postgis_tiger_geocoder;
 
-****** note that '--' represents comment ***********************************************************************************************************
+****************************************************************************************
 
 ```
 
