@@ -3,8 +3,9 @@
 ------------------------------
 
     * Create a Maobox account
-    * get the accessToken
-    * You can change the urlTemplate and id options in main.dart to the values of your choice
+    * get your accessToken
+    * get the map urlTemplate
+    * add both to the main.dart (line 37 and 40)
   
   
   
