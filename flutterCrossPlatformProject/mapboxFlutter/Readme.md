@@ -3,5 +3,7 @@
 ------------------------------
 
     * Create a Maobox account
-    * Copy the urlTemplate
+    * get the urlTemplate
+    * get the accessToken
+    * get the ID
     
