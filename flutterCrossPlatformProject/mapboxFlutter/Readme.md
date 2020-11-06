@@ -3,7 +3,6 @@
 ------------------------------
 
     * Create a Maobox account
-    * get the urlTemplate
     * get the accessToken
-    * get the ID
+    * You can change the urlTemplate and id options in main.dart to the values of your choice
     
