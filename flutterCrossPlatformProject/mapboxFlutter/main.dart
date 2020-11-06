@@ -34,10 +34,10 @@ Widget build(BuildContext context) {
     ),
     layers: [
       new TileLayerOptions(
-        urlTemplate: "https://api.mapbox.com/styles/v1/bellaris/ckh6c3k430ylk19ofo9qdqgp0/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYmVsbGFyaXMiLCJhIjoiY2pzcnNrMXdoMHM5ajQ0cGhzenY1MGM4aCJ9.aEuD25iPBG9tuB_Rbadx6g",
+        urlTemplate: "",
        // subdomains: ['a', 'b', 'c']
        additionalOptions: {
-      'accessToken': 'pk.eyJ1IjoiYmVsbGFyaXMiLCJhIjoiY2pzcnNrMXdoMHM5ajQ0cGhzenY1MGM4aCJ9.aEuD25iPBG9tuB_Rbadx6g',
+      'accessToken': '',
       'id': 'mapbox.mapbox-streets-v8',
 
        }
