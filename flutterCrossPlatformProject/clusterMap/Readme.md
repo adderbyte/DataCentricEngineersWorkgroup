@@ -10,4 +10,4 @@
   
   
   
-  ![alt-text](https://github.com/adderbyte/DataCentricEngineersWorkgroup/blob/master/flutterCrossPlatformProject/Images/myMap.png)
+  ![alt-text](https://github.com/adderbyte/DataCentricEngineersWorkgroup/blob/master/flutterCrossPlatformProject/Images/clusterMap.png)
