@@ -7,6 +7,7 @@
     * get your accessToken
     * get the map urlTemplate
     * add both to the main.dart (line 37 and 40)
+    * Get lat long from geolocator
   
   
   
