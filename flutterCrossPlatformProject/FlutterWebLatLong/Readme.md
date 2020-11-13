@@ -3,4 +3,4 @@
 -------------------
 
 
-Using Reverse-Geocoding and mapbox-search package.
+Using Reverse-Geocoding and mapbox-search packages.
