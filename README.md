@@ -8,7 +8,7 @@
          sustainable development in developing countries 
        
        * Community based open source project approach.
-       * Tackling problems one solution at a time
+       * Tackling problems one code at a time
        
  
 
