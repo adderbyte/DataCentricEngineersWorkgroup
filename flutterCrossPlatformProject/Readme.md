@@ -14,7 +14,7 @@
 
 ######  [PostgreSQL Download and Installation](https://www.postgresql.org/download/)
 
-###### [PostGIS](https://postgis.net/install/)
+###### [PostGIS](https://postgis.net/install/)  (Not required for a start)
 
 ######  [Django](https://docs.djangoproject.com/en/3.1/intro/install/)  
 
