@@ -1,6 +1,6 @@
 --------------------------------------------------
 
-#### The Data Centric Engineering Workgroup (D-ACE)
+#### The Data Centric Engineering Workgroup (D-ACE Workgroup)
 
 ------------------------------------------------
 
